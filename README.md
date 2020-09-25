@@ -3,8 +3,8 @@ Coded in Python
 
 ## Installation Guide
 Requirements:
-⋅⋅*Python3
-⋅⋅* Tkinter package
+* Python3
+* Tkinter package
 
 To install on ubuntu 18.04:
 `$ sudo apt-get install python3.8 python3-tk`
